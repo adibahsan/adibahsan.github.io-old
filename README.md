@@ -1,2 +1,8 @@
-# adibahsan.github.io
-Adib Ahsan Chowdhury's Portfolio
+# Portfolio
+
+
+## Technologies used:
+- React
+- Typescript
+- Styled Components
+
